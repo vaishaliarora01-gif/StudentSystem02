@@ -29,7 +29,7 @@ SECRET_KEY = 'ted-d$-+8ujb)bn)=59oqrcu42m#2=ns9btb62eue&%7mezf9i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['studentdemo1-env.eba-xgtzkgks.eu-west-1.elasticbeanstalk.com']
 
 
 # Application definition
